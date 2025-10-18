@@ -1,0 +1,2 @@
+# RAG
+types of RAG 
